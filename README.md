@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Herman BENAO 👋
 
-<!--
-**bessybens-byte/bessybens-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a developer passionate about building software and exploring new technologies. I enjoy working on projects that solve real-world problems and learning new tools along the way.
+
+## What I'm Working On
+
+- Building and experimenting with various coding projects
+- Exploring cloud technologies and AI-powered development tools
+- Continuously learning and improving my skills
+
+## Tech Interests
+
+- Software Development
+- Cloud Computing
+- Automation & DevOps
+- AI & Machine Learning
+
+## Let's Connect
+
+Feel free to explore my repositories and reach out if you'd like to collaborate on something interesting!
+
+---
+
+*Thanks for visiting my profile!*
